@@ -1,4 +1,4 @@
-# Simple ciphers tools
+# Simple cipher tools
 
 Just playing with my son.  
 To build install `stack` and then build it with `stack build`.  
