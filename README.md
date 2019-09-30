@@ -6,8 +6,8 @@ https://docs.haskellstack.org/en/stable/README/
 
 ## Caesar
 
-Read REDME.md here: https://github.com/DKurilo/simple-ciphers/caesar/README.md
+Read REDME.md here: https://github.com/DKurilo/simple-ciphers/tree/master/caesar
 
 ## Grille
 
-Read REDME.md here: https://github.com/DKurilo/simple-ciphers/grille/README.md
+Read REDME.md here: https://github.com/DKurilo/simple-ciphers/tree/master/grille
